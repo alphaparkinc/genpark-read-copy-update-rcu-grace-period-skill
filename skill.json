@@ -1,0 +1,13 @@
+{
+  "name": "genpark-read-copy-update-rcu-grace-period-skill",
+  "version": "1.0.0",
+  "description": "Linux Read-Copy Update (RCU) synchronization model supporting zero-overhead lockless read sections and deferred memory reclamation.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "concurrency",
+    "rcu",
+    "grace-period",
+    "lockless-data-structures"
+  ]
+}
